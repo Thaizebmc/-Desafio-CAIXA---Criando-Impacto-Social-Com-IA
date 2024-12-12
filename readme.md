@@ -1,10 +1,8 @@
 # Desafio CAIXA - Criando Impacto Social Com IA
 
 <p align="center">
-<a href="https://github.com/Thaizebmc/Flycast-prompts-for-podcast-generate-by-ia/"><img src="assets/capanovared.jpg" alt="FLYCAST"></a>
+<a href="https://github.com/Thaizebmc/Desafio-CAIXA-Criando-Impacto-Social-Com-IA/"><img src="assets/capared.jpg" alt="MOOVE"></a>
 </p>
-
-# Projeto Podcast Gerado por I.A.s
 
 No mundo dinâmico e acelerado em que vivemos, a capacidade de nos movermos para acompanhar as constantes transformações é imprescindível. A tecnologia e as demandas do mercado estão em constante evolução e, ficar estagnado, representa um risco significativo para nosso desenvolvimento e relevância neste cenário.
 Acompanhar as mudanças não é apenas uma necessidade, é uma chance de expandir horizontes, aprimorar habilidades e construir um futuro promissor.
@@ -15,29 +13,23 @@ Este ebook foi criado com o auxílio de inteligência artificial, inspirado pelo
 <a href="output/" title="Read PDF"> 📕Clique aqui ter acesso ao e-book</a>
 
 ## 💻 Tecnologias utilizadas no projeto
-- [Copilot](https://copilot.microsoft.com/onboarding) 
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+
+- [Copilot](https://copilot.microsoft.com/onboarding)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via Copilot
-- Audio gerado pela elevenLabs
-- Copilot Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via Copilot
+- Diagramação com MS PowerPoint
 
 ## 📚 Materiais
 
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
+<a href="src/prompts/" title="Read PDF"> 📕Prompts</a>
 
 ## 🛠️ Instruções de execução
 
-Siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `Copilot`
-- 🤖 2. Use os prompts de roteiro gerados pelo copilot no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `Copilot`
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
 
