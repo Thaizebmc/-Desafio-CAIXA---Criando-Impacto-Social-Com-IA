@@ -19,7 +19,7 @@ Este ebook foi criado com o auxílio de inteligência artificial, inspirado pelo
 
 ## ✨ Como foi feito ?
 
-- Conteúdo gerado via ChatGPT
+- Conteúdo gerado via Copilot
 - Imagens geradas via Copilot
 - Diagramação com MS PowerPoint
 
